@@ -79,21 +79,11 @@ Entre meus projetos está o **Conecta Geração**, uma aplicação voltada à or
 
 ## ✦ Projetos
 
-<div align="center">
-
-<a href="https://github.com/Kauan-Faria/Conecta-Geracao">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kauan-Faria&amp;repo=Conecta-Geracao&amp;bg_color=0D0B12&amp;title_color=B77BFF&amp;text_color=FFFFFF&amp;icon_color=9D4EDD&amp;border_color=30283D" />
-</a>
-
-<a href="https://github.com/Kauan-Faria/Fertilitech">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kauan-Faria&amp;repo=Fertilitech&amp;bg_color=0D0B12&amp;title_color=B77BFF&amp;text_color=FFFFFF&amp;icon_color=9D4EDD&amp;border_color=30283D" />
-</a>
-
-<a href="https://github.com/Kauan-Faria/code-connect">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kauan-Faria&amp;repo=code-connect&amp;bg_color=0D0B12&amp;title_color=B77BFF&amp;text_color=FFFFFF&amp;icon_color=9D4EDD&amp;border_color=30283D" />
-</a>
-
-</div>
+| Projeto | Repositório |
+|:--|:--:|
+| **Conecta Geração** — aplicação mobile de orientação digital com foco em acessibilidade. | [Acessar projeto](https://github.com/Kauan-Faria/Conecta-Geracao) |
+| **Fertilitech** | [Acessar projeto](https://github.com/Kauan-Faria/Fertilitech) |
+| **Code Connect** | [Acessar projeto](https://github.com/Kauan-Faria/code-connect) |
 
 <br/>
 
@@ -119,9 +109,13 @@ Também desenvolvo e estudo soluções utilizando **Next.js, React, Tailwind CSS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kauan-Faria&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=false&amp;bg_color=0D0B12&amp;title_color=B77BFF&amp;text_color=FFFFFF&amp;icon_color=9D4EDD&amp;border_color=30283D" />
+<a href="https://github.com/Kauan-Faria?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIOS-VER%20NO%20GITHUB-111111?style=for-the-badge&amp;logo=github&amp;logoColor=B77BFF" alt="Ver repositórios de Kauan Faria no GitHub" />
+</a>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauan-Faria&amp;layout=compact&amp;langs_count=8&amp;bg_color=0D0B12&amp;title_color=B77BFF&amp;text_color=FFFFFF&amp;border_color=30283D" />
+<a href="https://github.com/Kauan-Faria?tab=stars">
+  <img src="https://img.shields.io/badge/PROJETOS%20FAVORITOS-VER%20STARS-111111?style=for-the-badge&amp;logo=github&amp;logoColor=B77BFF" alt="Ver projetos favoritos de Kauan Faria no GitHub" />
+</a>
 
 </div>
 
@@ -137,31 +131,17 @@ Também desenvolvo e estudo soluções utilizando **Next.js, React, Tailwind CSS
 
 <br/>
 
-## ✦ Activity Graph
+## ✦ Atividade no GitHub
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kauan-Faria&amp;bg_color=0D0B12&amp;color=B77BFF&amp;line=9D4EDD&amp;point=FFFFFF&amp;area=true&amp;area_color=6A1B9A&amp;hide_border=true" />
+O histórico completo de contribuições, conquistas e atividades está disponível diretamente no perfil.
 
-</div>
+<br/><br/>
 
-<br/>
-
-## ✦ GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Kauan-Faria&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=6" />
-
-</div>
-
-<br/>
-
-## ✦ Snake Contribution
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Kauan-Faria/Kauan-Faria/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<a href="https://github.com/Kauan-Faria">
+  <img src="https://img.shields.io/badge/ACOMPANHAR%20ATIVIDADE-GITHUB-111111?style=for-the-badge&amp;logo=github&amp;logoColor=B77BFF" alt="Acompanhar atividade de Kauan Faria no GitHub" />
+</a>
 
 </div>
 
