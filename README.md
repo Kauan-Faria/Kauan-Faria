@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=gradient&amp;customColorList=6,12,20&amp;text=Kauan%20Faria%20de%20Carvalho&amp;fontColor=FFFFFF&amp;fontSize=38&amp;fontAlignY=38&amp;desc=Assistente%20de%20TI&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" alt="Banner de apresentação de Kauan Faria de Carvalho" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=gradient&amp;customColorList=6,12,20&amp;text=Kauan%20Faria%20de%20Carvalho&amp;fontColor=FFFFFF&amp;fontSize=38&amp;fontAlignY=38&amp;desc=Desenvolvedor%20Full%20Stack&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" alt="Banner de apresentação de Kauan Faria de Carvalho" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=B77BFF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Assistente+de+TI;Desenvolvimento+Web+%26+Mobile;Tecnologia+%7C+APIs+%7C+Integra%C3%A7%C3%B5es;Transformando+ideias+em+solu%C3%A7%C3%B5es" alt="Áreas de atuação: TI, desenvolvimento web e mobile, APIs e integrações" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=B77BFF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Desenvolvedor+Full+Stack;Desenvolvimento+Web+%26+Mobile;Tecnologia+%7C+APIs+%7C+Integra%C3%A7%C3%B5es;Transformando+ideias+em+solu%C3%A7%C3%B5es" alt="Áreas de atuação: TI, desenvolvimento web e mobile, APIs e integrações" />
 
 <br/>
 
