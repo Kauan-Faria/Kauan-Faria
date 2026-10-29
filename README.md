@@ -23,7 +23,7 @@
 ```typescript
 const kauan = {
   nome: "Kauan Faria de Carvalho",
-  cargo: "Assistente de TI",
+  cargo: "Desenvolvedor Full Stack",
   foco: [
     "Desenvolvimento Web",
     "Desenvolvimento Mobile",
@@ -35,7 +35,7 @@ const kauan = {
 };
 ```
 
-Sou **Assistente de TI** e desenvolvo projetos envolvendo aplicações web, mobile, APIs, integrações e bancos de dados.
+Sou **Desenvolvedor Full Stack Junior** e desenvolvo projetos envolvendo aplicações web, mobile, APIs, integrações e bancos de dados.
 
 Entre meus projetos está o **Conecta Geração**, uma aplicação voltada à orientação digital e acessibilidade, utilizando tecnologias modernas em diferentes camadas da aplicação.
 
